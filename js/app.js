@@ -1,5 +1,5 @@
 // CONSTANTES
-const API_KEY = "WPHHLLBSYQ0AXUFD";
+const API_KEY = "apykey";
 const API_BASE = "https://www.alphavantage.co/query";
 
 // Esto se ejecutará cuando el DOM esté listo
